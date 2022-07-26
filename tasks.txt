@@ -1,0 +1,8 @@
+docker
+docker-compose (virtual network)
+image of python 3.10.2
+flask orm project with 2 apis
+----------------------------------------------------------------
+- migrate v.1 orm project on docker
+- migration v.2 user table and user add after docker setup
+- login module with jwt tokens

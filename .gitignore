@@ -1,0 +1,3 @@
+.vscode
+services/web/venv/
+*.config
